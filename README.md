@@ -128,8 +128,8 @@ Open the notebook directly in Google Colab:
 
 ## 👤 Author
 
-**Your Name**  
-[GitHub](https://github.com/YOUR_USERNAME) | [LinkedIn](https://linkedin.com/in/yourprofile)
+**Sankalp Singh**  
+[GitHub](https://github.com/sankalpsingh404) | 
 
 ---
 
